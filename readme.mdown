@@ -26,6 +26,7 @@ Your task:
 
 * We use git as our revision control system, so it would be beneficial if you can demonstrate that you know how to use git: we'd like to see your development process across several commits in both their patch contents and the commit messages. That said, we are happy to accept your Xcode project in any form (GitHub repository, zip file with just the Xcode project, zip file with project and .git directory, Mercurial/Subversion repository, etc).
 
+* If you finish the initial task in a decent time, we'd like you to upload the accelerometer data to a Web site as it arrives. Use whatever networking classes or frameworks you feel like. There are many trade-offs to doing this (e.g. how often do you connect to the remote server to do this?) You can send POST requests to <http://requestb.in> to test them.
 
 Additional information:
 
