@@ -35,4 +35,4 @@ Additional information:
 If you wish to get more fancy and are looking to improve upon a basic implementation, feel free to expose the raw `x`/`y`/`z` properties in the `MPSAccelerometerData` class if you wish to display the individual components differently. We have provided a "magnitude" class that sums the X/Y/Z components into a single component to simplify the task, but again, we do not wish to limit your creative freedom if you wish.
  
  Good luck!
- - Christopher & André.
+ - André.
